@@ -1,5 +1,3 @@
-#Chebyshev Filter & HI Line Detection
-
 Prototype implementation of a low-cost 21cm radio telescope for 
 detecting galactic HI line emissions and deriving the Milky Way 
 rotation curve.
