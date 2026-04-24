@@ -31,5 +31,4 @@ inter-digital Chebyshev Type I filter:
   and cardboard construction, tuned to 1420 MHz)
 - Designed 9th-order inter-digital Chebyshev microstrip bandpass 
   filter in MATLAB — 110 MHz bandwidth centred at 1420 MHz, 
-  0.01 dB passband ripple, simulated in CST Studio and Ansys 
-  Electronics Desktop
+  0.01 dB passband ripple
